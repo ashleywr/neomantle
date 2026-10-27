@@ -18,7 +18,7 @@ Neo Planner is another **unofficial** port of the Tinkers Construct Planner addo
 
 <!-- ashley-release-information -->
 
-## Ashley's builds
+## My builds
 
 This is an unofficial maintenance fork. Original authors retain ownership and credit. See the [upstream project](https://github.com/vancevoj/neomantle) for the original mod. Local changes do not imply upstream endorsement.
 
